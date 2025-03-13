@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Convert rrd data from observium to cacti rrd
 # Remove all other DS other than traffic_in and traffic_out
-# renama all inoctets and outoctets to traffic_in and traffic_out
+# rename all inoctets and outoctets to traffic_in and traffic_out
 
 import sys
 import xml.etree.ElementTree as ET
