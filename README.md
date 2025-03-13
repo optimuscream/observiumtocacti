@@ -1,2 +1,2 @@
-# libretocacti
-librenms to cacti rrd converter
+# observiumtocacti
+observium to cacti rrd converter
